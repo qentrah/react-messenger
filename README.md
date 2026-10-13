@@ -208,3 +208,7 @@ Next.js 16.3.8 and React/React DOM 19.3.0 are the current stable releases, verif
 TypeScript is upgraded to the newest version supported by the lint parser, 6.0.3. TypeScript 7.0.2 is available but the parser declares support below 6.1. ESLint remains at the newest compatible 9.x version, 9.39.5: Next.js’s React/import lint plugins exclude ESLint 10.12.0. These compatibility pins preserve the complete lint checks. Node.js 24.21.0 is the latest 24.x LTS runtime and supports the latest npm 12.2.0.
 
 All tracked application code, tests, Next.js configuration and ESLint configuration use `.ts` or `.tsx`. The lint command uses Node’s native TypeScript configuration loader. CSS styles, the HTML research document and the separate Python CrewAI service retain their original file types. GitHub’s language summary can temporarily show the old default-branch statistics while it recalculates them.
+
+## Project links
+
+[Source](https://github.com/qentrah/react-messenger) · [Issues](https://github.com/qentrah/react-messenger/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
